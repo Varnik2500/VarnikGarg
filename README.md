@@ -1,3 +1,5 @@
+<img src="coding.gif">
+
 👋  Hey there! I'm Varnik
 
 👨🏻‍💻  About Me
